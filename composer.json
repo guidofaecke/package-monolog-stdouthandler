@@ -1,13 +1,18 @@
 {
-    "name": "maxime-pasquier/monolog-stdout-handler",
+    "name": "guidofaecke/monolog-stdout-handler",
     "description": "A handler for Monolog that sends messages to stdout (with color).",
     "keywords": ["monolog", "log", "stdout", "color"],
-    "homepage": "https://bitbucket.org/maxime-pasquier/package-monolog-stdouthandler",
+    "homepage": "https://github.com/guidofaecke/package-monolog-stdouthandler",
     "license": "GPL-3.0+",
     "authors": [
         {
             "name": "Maxime Pasquier",
             "homepage": "https://bitbucket.org/maxime-pasquier/",
+            "role": "Developer"
+        },
+        {
+            "name": "Guido Faecke",
+            "homepage": "https://github.com/guidofaecke",
             "role": "Developer"
         }
     ],
